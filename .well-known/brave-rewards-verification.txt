@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: loopingo.github.io
+Token: 0812834a67bfe6ce00558d3d4641db2fa438658dfc7e9971ce102407a78657d8
